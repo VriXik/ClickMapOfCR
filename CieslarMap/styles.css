@@ -1,0 +1,17 @@
+html {
+    background-color: #a2d8ec;
+}
+
+.nadpis  {
+    text-align: center;
+    font-style: oblique;
+    font-family: Corbel;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
